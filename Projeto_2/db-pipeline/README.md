@@ -18,7 +18,7 @@ Descrição dos Arquivos:
 
 1. Faça o clone do projeto no git pra sua máquina:
 
-    `git clone https://github.com/camilo-8/Disciplina-Python-for-Data-Engineer.git`
+    `git clone https://github.com/neide53/Disciplina-Python-for-Data-Engineer.git`
 
 2. Acesse o diretório onde esta seu projeto clonado:
     
